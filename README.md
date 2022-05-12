@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Abir Islam
 #### I am a web developer
-![I am a web developer]("C:\Users\DELL\Pictures\Edited-by-Abir01.jpg")
 
 I am a student , I am learning web development .I want to be a MERN Stack web developer..My  hobbies are playing cricket , football, badminton, swimming, walking, running, and watching youtube content.
 
