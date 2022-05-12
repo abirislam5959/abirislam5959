@@ -1,5 +1,8 @@
+![I am a web developer](https://avatars.githubusercontent.com/u/93514440?v=4)
+
 ### Hi there 👋, my name is Abir Islam
 #### I am a web developer
+
 
 I am a student , I am learning web development .I want to be a MERN Stack web developer..My  hobbies are playing cricket , football, badminton, swimming, walking, running, and watching youtube content.
 
@@ -18,4 +21,4 @@ Skills:  REACT / JS / HTML / CSS / C / Database / My SQL / Bootstrap /  Photosho
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abirislam5959)  
 
-![Profile views](https://gpvc.arturio.dev/abirislam5959)  
+![Profile views](https://gpvc.arturio.dev/abirislam5959)    
