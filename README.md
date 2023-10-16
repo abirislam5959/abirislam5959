@@ -9,7 +9,7 @@ I am a student , I am learning web development .I want to be a MERN Stack web de
 Skills:  REACT / JS / HTML / CSS / C / Database / My SQL / Bootstrap /  Photoshop.
 
 - 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning WordPress 
+- 🌱 I’m currently learning C Programming 
 - 💬 Ask me about Web development 
 
 
